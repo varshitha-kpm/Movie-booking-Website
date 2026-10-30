@@ -4,7 +4,8 @@
 [![Movie Booking Website](/sample/movie_booking.gif)]()
 
 # Movie-Booking-WebApp
-I built this web application in my sophomore year under Winter Project competition organized by AASF (programming club of the institute). At the end of the competition I secured rank 1 out of the 50+ participants.
+I built this web application for my collage project
+
 ## Technology Stack
 - NodeJS
 - Express
@@ -45,12 +46,6 @@ Their are two access-views of the website :
 **View History and Generate Invoice**
 [![Movie Booking Website](/sample/images/invoice.png)]()
 
-
-
-## Installation
-
-### Clone 
-- Clone the repository to your local machine using git clone using `https://github.com/prajwal714/Movie-Booking-and-Recommendation-Website.git`
 
 ### Setup
 - Run `npm install` to install all the packages and dependencies
